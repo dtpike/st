@@ -1,0 +1,13 @@
+diff --git a/config.h b/config.h
+index 8e7b6be..09bd86b 100644
+--- a/config.h
++++ b/config.h
+@@ -5,7 +5,7 @@
+  *
+  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
+  */
+-static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
++static char *font = "MesloLGS Nerd Font Mono:style=Regular:size=12";
+ /* Spare fonts */
+ static char *font2[] = {
+ /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
